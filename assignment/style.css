@@ -6,7 +6,10 @@ footer {background-color: bisque;}
 /* Align the h1 containing your name in the center of the header*/
 h1 {text-align: center;}
 /* Make your p tag a different color and italic */
-
+p {
+    color: blue;
+    font-style: italic
+}
 /* Put a border around your image */
 
 /* Change the font-family of your list */
