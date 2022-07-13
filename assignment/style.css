@@ -13,3 +13,4 @@ p {
 /* Put a border around your image */
 img {border: 10px solid bisque}
 /* Change the font-family of your list */
+ul {font-family: Arial, Helvetica, sans-serif;}
