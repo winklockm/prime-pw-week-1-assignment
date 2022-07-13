@@ -1,7 +1,8 @@
 /* Give your page a fun background color */
 body {background-color: lightseagreen}
 /* Make the header and footer a different color from the background */
-
+header {background-color: bisque;}
+footer {background-color: bisque;}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
